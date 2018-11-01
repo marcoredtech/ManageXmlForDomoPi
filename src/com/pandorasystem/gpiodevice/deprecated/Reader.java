@@ -1,4 +1,4 @@
-package com.pandorasystem;
+package com.pandorasystem.gpiodevice.deprecated;
 
 import java.io.File;
 import java.io.IOException;

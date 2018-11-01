@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GPIO>
-  <Uscite id="1">
-    <OutName>Uscita_0</OutName>
-  </Uscite>
-  <Ingressi id="2">
-    <InName>Ingresso_1</InName>
-  </Ingressi>
-  <Uscite id="3">
-    <OutName>Uscita_2</OutName>
-  </Uscite>
+  <gpioPin id="123456790">
+    <verso>out</verso>
+    <numero>4</numero>
+  </gpioPin>
 </GPIO>
 
